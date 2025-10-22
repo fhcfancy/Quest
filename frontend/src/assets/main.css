@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply text-white;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-cosmic-accent hover:bg-cosmic-glow text-white rounded-lg transition-all duration-300 font-medium;
+  }
+  
+  .btn-secondary {
+    @apply px-6 py-3 border-2 border-cosmic-accent hover:bg-cosmic-accent/10 text-cosmic-accent rounded-lg transition-all duration-300 font-medium;
+  }
+  
+  .card {
+    @apply bg-cosmic-purple/30 backdrop-blur-sm border border-cosmic-accent/20 rounded-xl p-6 hover:border-cosmic-accent/40 transition-all duration-300;
+  }
+}
+

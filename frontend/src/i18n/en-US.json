@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Home",
+    "browse": "Browse",
+    "ask": "Ask"
+  },
+  "home": {
+    "title": "Every inquiry into the starry skies and the vast oceans is, in truth, a quest for the meaning of our own existence.",
+    "floatingQuestions": {
+      "q1": "Do you believe in higher power?",
+      "q2": "Does God exist?",
+      "q3": "What will life be after death?",
+      "q4": "Why do we exist?",
+      "q5": "Does the universe have an end?",
+      "q6": "What is the nature of consciousness?",
+      "q7": "Is time real?",
+      "q8": "What is love?"
+    },
+    "cta": {
+      "browse": "Explore Questions",
+      "ask": "Ask a Question"
+    }
+  },
+  "browse": {
+    "title": "Explore Questions",
+    "filters": {
+      "all": "All",
+      "philosophy": "Philosophy",
+      "science": "Science",
+      "life": "Life",
+      "existence": "Existence",
+      "custom": "Custom"
+    },
+    "types": {
+      "all": "All Types",
+      "text": "Text",
+      "image": "Image",
+      "video": "Video"
+    },
+    "sort": {
+      "latest": "Latest",
+      "popular": "Popular"
+    },
+    "search": "Search questions...",
+    "noResults": "No questions found"
+  },
+  "ask": {
+    "title": "Ask Your Question",
+    "tabs": {
+      "text": "Text",
+      "image": "Image",
+      "video": "Video"
+    },
+    "form": {
+      "title": "Title",
+      "titlePlaceholder": "Summarize your question in one sentence",
+      "content": "Description",
+      "contentPlaceholder": "Describe your question in detail...",
+      "category": "Category",
+      "categoryPlaceholder": "Select a category",
+      "customCategory": "Custom Category",
+      "customCategoryPlaceholder": "Enter custom category",
+      "uploadImage": "Upload Image",
+      "uploadVideo": "Upload Video",
+      "imagePlaceholder": "Click or drag image here",
+      "videoPlaceholder": "Click or drag video here",
+      "submit": "Submit Question",
+      "cancel": "Cancel"
+    },
+    "success": "Question submitted successfully!",
+    "error": "Submission failed, please try again"
+  },
+  "detail": {
+    "answers": "Answers",
+    "noAnswers": "No answers yet",
+    "addAnswer": "Add Your Answer",
+    "answerPlaceholder": "Share your insights...",
+    "submit": "Submit Answer",
+    "postedOn": "Posted on",
+    "category": "Category"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "back": "Back",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  }
+}
+

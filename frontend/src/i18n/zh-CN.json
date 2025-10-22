@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "首页",
+    "browse": "浏览问答",
+    "ask": "我要提问"
+  },
+  "home": {
+    "title": "所有对星空大海的追问，都是对于自身意义的探寻",
+    "floatingQuestions": {
+      "q1": "你相信更高的力量吗？",
+      "q2": "上帝存在吗？",
+      "q3": "死后生命会是什么样子？",
+      "q4": "我们为什么存在？",
+      "q5": "宇宙有尽头吗？",
+      "q6": "意识的本质是什么？",
+      "q7": "时间是真实的吗？",
+      "q8": "爱是什么？"
+    },
+    "cta": {
+      "browse": "探索问答",
+      "ask": "提出疑问"
+    }
+  },
+  "browse": {
+    "title": "探索问答",
+    "filters": {
+      "all": "全部",
+      "philosophy": "哲学",
+      "science": "科学",
+      "life": "人生",
+      "existence": "存在",
+      "custom": "自定义"
+    },
+    "types": {
+      "all": "全部类型",
+      "text": "文字",
+      "image": "图片",
+      "video": "视频"
+    },
+    "sort": {
+      "latest": "最新",
+      "popular": "最热"
+    },
+    "search": "搜索问题...",
+    "noResults": "暂无问答记录"
+  },
+  "ask": {
+    "title": "提出你的疑问",
+    "tabs": {
+      "text": "文字提问",
+      "image": "图片提问",
+      "video": "视频提问"
+    },
+    "form": {
+      "title": "标题",
+      "titlePlaceholder": "用一句话概括你的问题",
+      "content": "详细描述",
+      "contentPlaceholder": "详细描述你的疑问...",
+      "category": "分类",
+      "categoryPlaceholder": "选择分类",
+      "customCategory": "自定义分类",
+      "customCategoryPlaceholder": "输入自定义分类",
+      "uploadImage": "上传图片",
+      "uploadVideo": "上传视频",
+      "imagePlaceholder": "点击或拖拽图片到此处",
+      "videoPlaceholder": "点击或拖拽视频到此处",
+      "submit": "提交问题",
+      "cancel": "取消"
+    },
+    "success": "问题提交成功！",
+    "error": "提交失败，请重试"
+  },
+  "detail": {
+    "answers": "回答",
+    "noAnswers": "暂无回答",
+    "addAnswer": "添加你的回答",
+    "answerPlaceholder": "分享你的见解...",
+    "submit": "提交回答",
+    "postedOn": "发布于",
+    "category": "分类"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "retry": "重试",
+    "back": "返回",
+    "confirm": "确认",
+    "cancel": "取消"
+  }
+}
+
